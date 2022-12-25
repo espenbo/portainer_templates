@@ -1,7 +1,7 @@
 {
   "name": "selfhosted_templates",
   "version": "1.0.0",
-  "description": "Portainer Templates for Selfhosted Projects/Homelabs.",
+  "description": "Portainer Templates for Selfhosted Projects/Homelabs. fork Espen",
   "private": true,
   "devDependencies": {
     "jsonlint": "^1.6.3",
@@ -13,8 +13,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xneo1/portainer_templates.git"
+    "url": "git+https://github.com/espenbo/portainer_templates.git"
   },
-  "author": "Qballjos",
+  "author": "Qballjos fork Espen",
   "license": "GPLv3"
 }
